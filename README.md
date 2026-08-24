@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm David
 
-<!--
-**DAViduull01/DAViduull01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate interested in quantitative trading,
+market making, probability, and simulation.
 
-Here are some ideas to get you started:
+## Quantitative Trading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building **trading-lab**, a collection of small simulation-based
+projects exploring trading and probability concepts:
+
+- Monte Carlo Expected Value
+- Gambler's Ruin
+- Kelly Criterion
+- Market Making
+- Poisson Order Flow
+- Volatility-Based Quoting
+
+## Tools
+
+Python · NumPy · Pandas · Matplotlib
+
+## Currently
+
+Preparing for quantitative trading and market-making roles.
